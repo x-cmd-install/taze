@@ -7,7 +7,7 @@ about:
   head: b3ccef6
   archived: false
   latestVersion: v21.1.0
-  collectedAt: 2026-09-04T19:55:34Z
+  collectedAt: 2026-09-04T20:49:31Z
 timeline:
   created: 2020-07-22
   lastCommit: 2026-08-14
@@ -81,6 +81,39 @@ total:
   openIssue: 21
   commit: 492
 ---
+path: /home/runner/.x-repo/github.com/antfu/taze
+collectedAt: 2026-09-04T20:49:32Z
+loc:
+  TypeScript:
+    code: 8833
+    comments: 826
+    blanks: 1368
+    files: 99
+  Yaml:
+    code: 4484
+    comments: 0
+    blanks: 1137
+    files: 4
+  Json:
+    code: 466
+    comments: 0
+    blanks: 0
+    files: 12
+  JavaScript:
+    code: 9
+    comments: 0
+    blanks: 1
+    files: 2
+  Markdown:
+    code: 0
+    comments: 345
+    blanks: 117
+    files: 2
+total:
+  code: 13811
+  comments: 1174
+  blanks: 2623
+  files: 119
 ---
 date: "2026-08-24"
 repo:
