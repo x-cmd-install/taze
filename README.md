@@ -12,6 +12,28 @@
 x install taze
 ```
 
+## Code insight
+
+Total: **13,792** lines of code across **119** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 8,833 | 826 | 1,368 | 99 |
+| Yaml | 4,484 | 0 | 1,137 | 4 |
+| Json | 466 | 0 | 0 | 12 |
+| JavaScript | 9 | 0 | 1 | 2 |
+| Markdown | 0 | 345 | 117 | 2 |
+
+## OpenSSF Scorecard
+
+Overall score: **5.2 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## Source
 
 - **Upstream**: <https://github.com/antfu/taze>
@@ -35,30 +57,20 @@ x install taze
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 16 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 23 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 50 | 0 | 0 | 0 | 0 | 0 |
 
-## Code size
+## Distribution status
 
-Total: **13,792** lines of code across **119** files in the top 5 languages.
+Reported by **6** distros on [repology.org](https://repology.org/project/taze). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| TypeScript | 8,833 | 826 | 1,368 | 99 |
-| Yaml | 4,484 | 0 | 1,137 | 4 |
-| Json | 466 | 0 | 0 | 12 |
-| JavaScript | 9 | 0 | 1 | 2 |
-| Markdown | 0 | 345 | 117 | 2 |
-
-## OpenSSF Scorecard
-
-Overall score: **5.2 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `21.1.0` | ✅ latest |
+| Nix unstable | `20.0.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -69,4 +81,4 @@ Install metadata for taze lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:54:45Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:21:17Z._
