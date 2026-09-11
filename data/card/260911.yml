@@ -7,7 +7,7 @@ about:
   latestVersion: "v21.1.0"
   latestRelease: "v21.1.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T02:04:05Z
+  collectedAt: 2026-09-11T20:51:50Z
 timeline:
   created: 2020-07-22
   lastCommit: 2026-08-14
@@ -21,7 +21,7 @@ popularity:
   release: 97
   contributor: 86
   pullRequest: 191
-  issue: 126
+  issue: 127
 language:
   TypeScript: 355283
   JavaScript: 170
@@ -80,11 +80,11 @@ total:
   mergedPR: 143
   openPR: 9
   closedIssue: 104
-  openIssue: 22
+  openIssue: 23
   commit: 492
 ---
 path: /home/runner/.x-repo/github.com/antfu/taze
-collectedAt: 2026-09-11T02:04:09Z
+collectedAt: 2026-09-11T20:51:51Z
 loc:
   TypeScript:
     code: 8833
