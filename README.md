@@ -46,11 +46,11 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,281 · **Forks**: 149 · **Open issues**: 126 · **Contributors**: 86
+- **Stars**: 4,281 · **Forks**: 149 · **Open issues**: 127 · **Contributors**: 86
 
 ## Totals (cumulative)
 
-- **Releases**: 97 · **Merged PRs**: 143 · **Open PRs**: 9 · **Closed issues**: 104 · **Open issues**: 22 · **Commits**: 492
+- **Releases**: 97 · **Merged PRs**: 143 · **Open PRs**: 9 · **Closed issues**: 104 · **Open issues**: 23 · **Commits**: 492
 
 ## Recent activity
 
@@ -81,4 +81,4 @@ Install metadata for taze lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T02:04:25Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:51:55Z._
