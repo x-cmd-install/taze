@@ -41,27 +41,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v21.1.0` (2026-08-14)
-- **Last commit**: 2026-09-25
+- **Latest**: `v21.2.0` (2026-09-28)
+- **Last commit**: 2026-09-28
 
 ## Popularity
 
-- **Stars**: 4,283 · **Forks**: 150 · **Open issues**: 130 · **Contributors**: 87
+- **Stars**: 4,284 · **Forks**: 150 · **Open issues**: 130 · **Contributors**: 87
 
 ## Totals (cumulative)
 
-- **Releases**: 97 · **Merged PRs**: 146 · **Open PRs**: 8 · **Closed issues**: 107 · **Open issues**: 23 · **Commits**: 496
+- **Releases**: 98 · **Merged PRs**: 146 · **Open PRs**: 8 · **Closed issues**: 107 · **Open issues**: 23 · **Commits**: 497
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-29 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-29 | 11 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-31 | 16 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-02 | 22 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-07 | 47 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-29 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-30 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-30 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-01 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-03 | 23 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-08 | 48 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for taze lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T02:31:09Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T02:34:22Z._
