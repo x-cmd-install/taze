@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/antfu-collective/taze/releases/397895311",
-  "assets_url": "https://api.github.com/repos/antfu-collective/taze/releases/397895311/assets",
-  "upload_url": "https://uploads.github.com/repos/antfu-collective/taze/releases/397895311/assets{?name,label}",
-  "html_url": "https://github.com/antfu-collective/taze/releases/tag/v21.2.0",
-  "id": 397895311,
+  "url": "https://api.github.com/repos/antfu-collective/taze/releases/399659229",
+  "assets_url": "https://api.github.com/repos/antfu-collective/taze/releases/399659229/assets",
+  "upload_url": "https://uploads.github.com/repos/antfu-collective/taze/releases/399659229/assets{?name,label}",
+  "html_url": "https://github.com/antfu-collective/taze/releases/tag/v21.3.0",
+  "id": 399659229,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOEMis0c4Xt2aP",
-  "tag_name": "v21.2.0",
+  "node_id": "RE_kwDOEMis0c4X0lDd",
+  "tag_name": "v21.3.0",
   "target_commitish": "main",
-  "name": "v21.2.0",
+  "name": "v21.3.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-28T01:49:53Z",
-  "updated_at": "2026-09-28T01:50:30Z",
-  "published_at": "2026-09-28T01:50:30Z",
+  "created_at": "2026-09-30T02:02:53Z",
+  "updated_at": "2026-09-30T02:03:20Z",
+  "published_at": "2026-09-30T02:03:20Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/antfu-collective/taze/tarball/v21.2.0",
-  "zipball_url": "https://api.github.com/repos/antfu-collective/taze/zipball/v21.2.0",
-  "body": "### &nbsp;&nbsp;&nbsp;🚀 Features\n\n- **github-actions**: Pin up-to-date tags to sha with `style: &#39;sha&#39;` &nbsp;-&nbsp; by @antfubot in https://github.com/antfu-collective/taze/issues/323 [<samp>(d0f5c)</samp>](https://github.com/antfu-collective/taze/commit/d0f5ccd)\n\n### &nbsp;&nbsp;&nbsp;🐞 Bug Fixes\n\n- Consistent formatting for github action yaml &nbsp;-&nbsp; by @IHIutch and @antfubot in https://github.com/antfu-collective/taze/issues/316 [<samp>(41d69)</samp>](https://github.com/antfu-collective/taze/commit/41d69b2)\n- Stop implicit CLI defaults from overriding config file options &nbsp;-&nbsp; by @antfubot in https://github.com/antfu-collective/taze/issues/326 [<samp>(27c7f)</samp>](https://github.com/antfu-collective/taze/commit/27c7f01)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/antfu-collective/taze/compare/v21.1.0...v21.2.0)",
-  "mentions_count": 2
+  "tarball_url": "https://api.github.com/repos/antfu-collective/taze/tarball/v21.3.0",
+  "zipball_url": "https://api.github.com/repos/antfu-collective/taze/zipball/v21.3.0",
+  "body": "### &nbsp;&nbsp;&nbsp;🚀 Features\n\n- Ship with skills &nbsp;-&nbsp; by @antfu [<samp>(1cce3)</samp>](https://github.com/antfu-collective/taze/commit/1cce3cf)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/antfu-collective/taze/compare/v21.2.0...v21.3.0)",
+  "mentions_count": 1
 }
