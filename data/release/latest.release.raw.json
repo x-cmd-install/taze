@@ -41,5 +41,17 @@
   "tarball_url": "https://api.github.com/repos/antfu-collective/taze/tarball/v21.3.0",
   "zipball_url": "https://api.github.com/repos/antfu-collective/taze/zipball/v21.3.0",
   "body": "### &nbsp;&nbsp;&nbsp;🚀 Features\n\n- Ship with skills &nbsp;-&nbsp; by @antfu [<samp>(1cce3)</samp>](https://github.com/antfu-collective/taze/commit/1cce3cf)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/antfu-collective/taze/compare/v21.2.0...v21.3.0)",
+  "reactions": {
+    "url": "https://api.github.com/repos/antfu-collective/taze/releases/399659229/reactions",
+    "total_count": 2,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 2,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 1
 }
