@@ -26,7 +26,7 @@ Total: **14,144** lines of code across **120** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.3 / 10**
+Overall score: **5.2 / 10**
 
 Lowest-scoring checks:
 
@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,286 · **Forks**: 150 · **Open issues**: 130 · **Contributors**: 88
+- **Stars**: 4,288 · **Forks**: 148 · **Open issues**: 130 · **Contributors**: 88
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-06 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-07 | 13 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-08 | 17 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-10 | 24 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-15 | 49 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-06 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-07 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-08 | 13 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-09 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-11 | 24 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-16 | 49 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for taze lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T03:02:00Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T03:50:46Z._
