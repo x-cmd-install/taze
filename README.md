@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,295 · **Forks**: 150 · **Open issues**: 132 · **Contributors**: 88
+- **Stars**: 4,296 · **Forks**: 150 · **Open issues**: 132 · **Contributors**: 88
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-20 | 15 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-21 | 21 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-26 | 48 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-18 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-19 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-21 | 15 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-22 | 21 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-27 | 48 | 0 | 0 | 0 | 0 | 0 |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for taze lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T03:49:09Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T05:42:58Z._
