@@ -1,8 +1,8 @@
 {
-  "url": "https://api.github.com/repos/antfu-collective/taze/releases/399659229",
-  "assets_url": "https://api.github.com/repos/antfu-collective/taze/releases/399659229/assets",
-  "upload_url": "https://uploads.github.com/repos/antfu-collective/taze/releases/399659229/assets{?name,label}",
-  "html_url": "https://github.com/antfu-collective/taze/releases/tag/v21.3.0",
+  "url": "https://api.github.com/repos/made-in-common/taze/releases/399659229",
+  "assets_url": "https://api.github.com/repos/made-in-common/taze/releases/399659229/assets",
+  "upload_url": "https://uploads.github.com/repos/made-in-common/taze/releases/399659229/assets{?name,label}",
+  "html_url": "https://github.com/made-in-common/taze/releases/tag/v21.3.0",
   "id": 399659229,
   "author": {
     "login": "github-actions[bot]",
@@ -38,11 +38,11 @@
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/antfu-collective/taze/tarball/v21.3.0",
-  "zipball_url": "https://api.github.com/repos/antfu-collective/taze/zipball/v21.3.0",
+  "tarball_url": "https://api.github.com/repos/made-in-common/taze/tarball/v21.3.0",
+  "zipball_url": "https://api.github.com/repos/made-in-common/taze/zipball/v21.3.0",
   "body": "### &nbsp;&nbsp;&nbsp;🚀 Features\n\n- Ship with skills &nbsp;-&nbsp; by @antfu [<samp>(1cce3)</samp>](https://github.com/antfu-collective/taze/commit/1cce3cf)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/antfu-collective/taze/compare/v21.2.0...v21.3.0)",
   "reactions": {
-    "url": "https://api.github.com/repos/antfu-collective/taze/releases/399659229/reactions",
+    "url": "https://api.github.com/repos/made-in-common/taze/releases/399659229/reactions",
     "total_count": 2,
     "+1": 0,
     "-1": 0,
