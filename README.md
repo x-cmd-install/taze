@@ -46,31 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,296 · **Forks**: 150 · **Open issues**: 132 · **Contributors**: 87
+- **Stars**: 4,297 · **Forks**: 151 · **Open issues**: 132 · **Contributors**: 87
 
 ## Totals (cumulative)
 
-- **Releases**: 99 · **Merged PRs**: 146 · **Open PRs**: 17 · **Closed issues**: 108 · **Open issues**: 24 · **Commits**: 500
+- **Releases**: 99 · **Merged PRs**: 146 · **Open PRs**: 18 · **Closed issues**: 108 · **Open issues**: 24 · **Commits**: 500
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-29 | 13 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-30 | 19 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-05 | 48 | 0 | 0 | 0 | 0 | 0 |
-
-## Distribution status
-
-Reported by **6** distros on [repology.org](https://repology.org/project/taze). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `21.3.0` | ✅ latest |
-| Nix unstable | `21.2.0` | ⚠️ outdated |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 13 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-01 | 19 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-06 | 48 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -81,4 +72,4 @@ Install metadata for taze lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T06:04:28Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T05:57:34Z._
