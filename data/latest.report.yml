@@ -7,7 +7,7 @@ about:
   latestVersion: "v21.3.0"
   latestRelease: "v21.3.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T05:51:36Z
+  collectedAt: 2026-11-28T05:30:35Z
 timeline:
   created: 2020-07-22
   lastCommit: 2026-11-24
@@ -15,11 +15,11 @@ timeline:
   lastRelease: 2026-09-30
   lastPrerelease: 
 popularity:
-  star: 4298
+  star: 4299
   watcher: 4
   fork: 151
   release: 99
-  contributor: 87
+  contributor: 88
   pullRequest: 205
   issue: 132
 language:
@@ -28,7 +28,7 @@ language:
 totalBytes: 361057
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 0
@@ -36,15 +36,15 @@ recent:
     openIssue: 0
     commit: 0
   last60d:
-    since: 2026-09-28
-    release: 2
+    since: 2026-09-29
+    release: 1
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
     commit: 0
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 2
     mergedPR: 0
     openPR: 0
@@ -52,7 +52,7 @@ recent:
     openIssue: 0
     commit: 0
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 13
     mergedPR: 0
     openPR: 0
@@ -60,7 +60,7 @@ recent:
     openIssue: 0
     commit: 0
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 19
     mergedPR: 0
     openPR: 0
@@ -68,7 +68,7 @@ recent:
     openIssue: 0
     commit: 0
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 48
     mergedPR: 0
     openPR: 0
@@ -84,7 +84,7 @@ total:
   commit: 500
 ---
 path: /home/runner/.x-repo/github.com/antfu/taze
-collectedAt: 2026-11-27T05:51:37Z
+collectedAt: 2026-11-28T05:30:36Z
 loc:
   TypeScript:
     code: 8930
